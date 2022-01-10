@@ -1,3 +1,3 @@
-readme will be updated soon (this month i think)
+some sites may be out of date
 # Interesting-Sites
 list of sites from http://goodsites.tech/
